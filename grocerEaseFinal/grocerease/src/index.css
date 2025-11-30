@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* small overrides for app look */
+body {
+  background: #f7faf7;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
