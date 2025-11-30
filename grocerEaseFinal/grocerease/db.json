@@ -152,6 +152,12 @@
       "username": "mohit",
       "password": "12345",
       "role": "customer"
+    },
+    {
+      "id": "71a5",
+      "username": "abhiram",
+      "password": "1234",
+      "role": "customer"
     }
   ],
   "carts": [
@@ -306,6 +312,11 @@
           "quantity": 1
         }
       ]
+    },
+    {
+      "id": "e62d",
+      "userId": "71a5",
+      "items": []
     }
   ]
 }
